@@ -24,3 +24,5 @@ git checkout
 git reflog 
 
 2、挽救分离头指针
+改变历史啦！！！
+3、 git checkout 基本用法
