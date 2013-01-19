@@ -1,2 +1,26 @@
 本教程为讲解蒋鑫老师权威指南第8章节而制作，已经蒋老师同意
 本教程为www.gitchina.org站长业余时间录制，请支持gitchina.org
+www.gitchina.org 
+
+交流QQ群：37609317
+
+交流内容：Git及相关技术（GitHub、Maven、Nexus）
+相关视频请关注 微薄：http://weibo.com/gitchina
+
+作者googletalk:gitchina.org@gmail.com
+
+git checkout   【git权威指南】第八章
+
+1、分离头指针
+
+涉及到的命令：
+
+cat .git/head
+
+git branch 
+
+git checkout  
+
+git reflog 
+
+2、挽救分离头指针
